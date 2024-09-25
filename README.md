@@ -57,11 +57,6 @@
 
 ###
 
-<br clear="both">
-
-<img src="https://raw.githubusercontent.com/pjferguson/pjferguson/output/snake.svg" alt="Snake animation" />
-
-###
 
 
 
