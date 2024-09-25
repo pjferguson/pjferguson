@@ -1,17 +1,67 @@
-# Hello, I'm Promyse :) 👋
+<h2 align="left">Hi 👋!  I'm Promyse!</h2>
 
+###
 
+<h3 align="left">Languages, Tools & Frameworks</h3>
 
-## 🌟 About Me
+###
 
-- 🎓 Currently studying Computer Science.
-- 💻 Passionate about building secure and scalable applications.
-- 📚 Always eager to learn more about emerging tech in DevOps and Security.
-- 🌱 Actively working on personal projects and collaborating with the open-source community.
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" height="30" alt="azure logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-line-wordmark.svg" height="30" alt="amazonwebservices logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="30" alt="docker logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" height="30" alt="bash logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ansible/ansible-original.svg" height="30" alt="ansible logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg" height="30" alt="fastapi logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/grafana/grafana-original.svg" height="30" alt="grafana logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vagrant/vagrant-original.svg" height="30" alt="vagrant logo"  />
+</div>
 
-### 🔧 Languages, Tools & Frameworks
+###
 
+<h3 align="left">🌟 About Me</h3>
 
+###
+
+<p align="left">- 🎓 Currently studying Computer Science.<br>- 💻 Passionate about building secure and scalable applications.<br>- 📚 Always eager to learn more about emerging tech in DevOps and Security.<br>- 🌱 Actively working on personal projects and collaborating with the open-source community.</p>
+
+###
+
+<h3 align="left">Socials</h3>
+
+###
+
+<img align="right" height="150" src="https://media.giphy.com/media/JqmupuTVZYaQX5s094/giphy.gif?cid=790b7611x5zc9cbz4hl9eyt7aonwvtywspzcl5zqnl277hkd&ep=v1_gifs_search&rid=giphy.gif&ct=g"  />
+
+###
+
+<div align="left">
+  <a href="mailto:promyseferguson@gmail.com" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
+  </a>
+  <a href="http://linkedin.com/in/promyse-ferguson" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
+  </a>
+</div>
+
+###
+
+<br clear="both">
+
+<img src="https://raw.githubusercontent.com/pjferguson/pjferguson/output/snake.svg" alt="Snake animation" />
+
+###
 
 
 
