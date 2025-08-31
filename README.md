@@ -1,8 +1,9 @@
-Computer Science, Coding & Security. 
+hacking @ Computer Science. 
 
 ##### About
 
-- Current Computer Science with interest in Software Security Engineering. 
+- Currently working on memory-unsafe code analysis, static analysis tooling, & SIEM query language transators.
+- Interests in Machine Learning in computer security, autonomous vehicles, & hardware. 
 
 
 
